@@ -33,5 +33,7 @@ public class TiposVariaveis {
         System.out.println(nomeCompleto);
         System.out.println(resultadoFinal);
         System.out.println(segundoNome);
+
+        
     }
 }
